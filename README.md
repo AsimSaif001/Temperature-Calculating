@@ -1,2 +1,2 @@
 # Temperature-Calculating
-Temperature-Calculating Assignment 
+Temperature Calculating Using Equation
